@@ -1,0 +1,2 @@
+# scare
+The Scare Language.
